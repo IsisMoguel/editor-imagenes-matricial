@@ -1,9 +1,9 @@
 // ============================================
-// EDITOR DE IMÁGENES CON ÁLGEBRA MATRICIAL
+// EDITOR DE IMÁGENES CON ÁLGEBRA MATRICIAL 
 // ============================================
-// Nombre del estudiante: _________________
-// Fecha: _________________
-// Grupo: _________________
+// Nombre del estudiante: Isis Alejandra Moguel Ramirez
+// Fecha: 18/11/2025
+// Grupo: 1°A
 
 const { PNG } = require('pngjs');
 const fs = require('fs');
